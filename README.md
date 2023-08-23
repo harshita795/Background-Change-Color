@@ -1,4 +1,4 @@
-# Background-Change-Code
+# Background-Change-Color
 This is a HTML , CSS , JAVASCRIPT code which changes the background color randomly by just clicking on the provided button.
 
 Just clone the repo after fork from this repo to your account.
